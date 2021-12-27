@@ -7,8 +7,8 @@ Uma série de 4 aulas sobre API do Zabbix.
 
 [x] 04/11/2021 às 17h  
 [X] 11/11/2021 às 17h  
-[ ] 18/11/2021 às 17h  
-[ ] 24/11/2021 às 17h  
+[X] 18/11/2021 às 17h  
+[X] 24/11/2021 às 17h  
 
 [Clique aqui para se inscriver](https://bit.ly/2Z2Ipj2). 
 

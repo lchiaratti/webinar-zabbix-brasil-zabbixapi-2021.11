@@ -2,7 +2,7 @@ from zabbix_api import ZabbixAPI
 from zabbix_api import ZabbixAPIException
 from zabbix_api import Already_Exists
 
-URL = 'http://10.0.0.56/zabbix'
+URL = 'http://10.23.4.10'
 USERNAME = 'Admin'
 PASSWORD = 'zabbix'
 
